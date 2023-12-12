@@ -8,5 +8,6 @@ namespace Hoang
 {
     internal class teacher
     {
+        int a = 10;
     }
 }
