@@ -9,5 +9,6 @@ namespace Hoang
     internal class teacher
     {
         int a = 10;
+        int a = 15;
     }
 }
